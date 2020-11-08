@@ -27,7 +27,7 @@ const BlogLayout = (props) => {
                 <img
                   className="w-56 inline-block"
                   src={logo}
-                  alt="Hammer Review Logo"
+                  alt="Audla logo"
                 />
               </Link>
             </div>
